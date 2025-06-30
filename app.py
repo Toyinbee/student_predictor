@@ -8,7 +8,7 @@ import joblib
 best_model_mental = joblib.load("mental_model.pkl")
 best_model_cgpa = joblib.load("cgpa_model.pkl")
 mental_encoder = joblib.load("mental_encoder .pkl")
-cgpa_encoder = joblib.load("cgpa_encoder.pkl")
+cgpa_encoder = joblib.load("cgpa_encoder .pkl")
 label_encoder_mental = joblib.load("label_encoder_mental.pkl")
 label_encoder_cgpa = joblib.load("label_encoder_cgpa.pkl")
 
