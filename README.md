@@ -8,7 +8,7 @@ It is built with **Streamlit** for easy interaction and visualization, helping s
 
 ## 🚀 Features
 
-- Predict **Mental Health Condition** (Yes/No)
+- Predict **Mental Health Condition** (Has Issue /No Issue)
 - Predict **CGPA Class** (Low, Average, High)
 - Uses **XGBoost** models for high accuracy
 - **SHAP explainability** to show why a prediction was made
